@@ -5,4 +5,4 @@
 
 ## Ветки 
 
-> Bash - скрипты linux, Mac для терминала 
+> (https://github.com/IT-contry/help/tree/BAHS)[Bash] - скрипты linux, Mac для терминала 
